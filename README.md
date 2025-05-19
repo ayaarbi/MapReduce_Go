@@ -78,8 +78,8 @@ go test ./tests
 ---
 ## Other Features
 Along the web interface, you can take advantage of the following features using the URL bar:
-- **localhost/8080/results**: View the results of the MapReduce operation.
-- **localhost/8080/data**: View the status of tasks.
+- **[http://localhost:8080/results](http://localhost:8080/results)**: View the results of the MapReduce operation.
+- **[http://localhost:8080/data](http://localhost:8080/results)**: View the status of tasks.
 
 
 

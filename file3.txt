@@ -1,0 +1,1 @@
+Clean code is a reader-focused development style that produces software that's easy to maintain.

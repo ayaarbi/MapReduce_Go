@@ -32,6 +32,7 @@ No external dependencies are required.
 Make sure you have a valid `go.mod` file like this:
 ```go
 module project
+```
 
 ### 3. Prepare Input Files
 Add some `.txt` files to the root, for example:
